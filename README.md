@@ -131,3 +131,4 @@ A página é 100% estática, com carregamento ultra-rápido (sub-segundo):
 - **Vercel / Netlify:** Basta conectar o repositório do GitHub ou arrastar a pasta do projeto. Funciona imediatamente sem etapa de build.
 - **GitHub Pages:** Ative nas configurações do repositório apontando para a branch `main` e diretório raiz `/`.
 - **Hospedagens Tradicionais (Hostinger, cPanel, Apache, Nginx):** Envie os arquivos da pasta para o diretório `public_html`.
+

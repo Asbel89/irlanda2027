@@ -60,3 +60,4 @@ server.listen(PORT, () => {
   console.log(`⚙️ Configurações de checkout e preço em: js/config.js`);
   console.log(`======================================================\n`);
 });
+
